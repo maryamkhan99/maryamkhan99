@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey there, I'm  Nadia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+<p>I've worked on multiple freelance projects. I am a dedicated programmer and always deliver my projects on time and with all the quality requirements.</p>
 
-<!--
-**maryamkhan99/maryamkhan99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+### A CS Student, Developer & Freelancer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
+#### Talking about my personal stuff:
+
+- 🙋‍♂️ Freelancer at Upwork
+- ⚡ Python enthusiast
+- 💻 Android/Windows/Web dev
+- 📑 CS Student from Air University, Islamabad.
+
+
+<br>
